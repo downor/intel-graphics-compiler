@@ -39,7 +39,7 @@ namespace igc
  */
 static const uint32_t GTPIN_IGC_INTERFACE_VERSION = 0;
 
-
+static const uint32_t dongwonk;
 /*!
  * Tokens for patches IGC can pass to GTPin
  */
